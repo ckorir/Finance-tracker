@@ -2,7 +2,7 @@
 
 import { usePathname, useRouter } from "next/navigation";
 import { useMedia } from "react-use";
-import { NavButton } from "../nav-button";
+import { NavButton } from "./nav-button";
 import { useState } from "react";
 import { Button } from "../ui/button";
 import { Menu } from "lucide-react";
